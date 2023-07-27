@@ -1,0 +1,134 @@
+body{
+	background-image: linear-gradient(#636162, #b1afaf);
+	height: 122vh;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+
+*{
+	margin: 0px; padding: 0px; font-family: 'Montserrat', sans-serif;
+}
+.main{
+	background-color: white;
+	height: auto;
+	width: 650px;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	left: 50%;
+	top: 60%;
+}
+.left{
+	background-color: rgb(71, 67, 67);
+	width: 200px;
+	height: 100%;
+	float: left;
+}
+.right{
+	width: 450px;
+	float: left;
+}
+.profile-img{
+	height: 150px;
+	width: 150px;
+	background-color: #09522c55;
+	border-radius: 50%;
+	margin-bottom: 25px;
+	margin-left: 10px;
+	border: 5px solid #09522c55;
+}
+.profile-img img{
+	width: 100%;
+	border-radius: 50%;
+}
+.box-1{
+	position: relative;
+}
+.heading{
+	background-color: #01483a;
+	padding: 10px;
+	color: #ffffff;
+	text-align: left;
+	padding-left: 20px;
+	margin-right: -10px;
+}
+
+.p1{
+	padding: 10px 12px;
+	font-size: 11px;
+}
+.skill-container{
+	width: 90%;
+	background-color: #ffffff;
+	margin: 0px 10px;
+}
+.skill{
+	text-align: right;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	color: #01483a;
+}
+.html{
+	width: 90%;
+	background-color: #01483a;
+}
+.css{
+	width: 80%;
+	background-color: #01483a;
+}
+.js{
+	width: 30%;
+	background-color: #01483a;
+}
+.web {
+	width: 95%;
+	background-color: #01483a;
+}
+.gra{
+	width: 40%;
+	background-color: #01483a;
+}
+.name-div{
+	padding: 30px 5px 5px 5px;
+	text-align: left;
+	letter-spacing: 2px;
+	background-color: #01483a;
+	color: white;
+}
+
+.box-2{
+	padding: 0px 50px;
+	margin-top: 30px;
+}
+.p2{
+	font-size: 10px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	line-height: 18px;
+	margin-top: 5px;
+}
+h2{
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+.p3{
+	font-size: 13px;
+	word-spacing: 1px;
+	letter-spacing: 0px;
+	margin-top: 10px;
+}
+.p3 span{
+	color: #01483a; padding-left: 20px;
+}
+H1{
+	color: white;
+}
+.p1{
+	color: white;
+}
+#contactoWhatsapp{
+  width: 64px;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
